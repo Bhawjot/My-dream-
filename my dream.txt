@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head> <title> My Story</title> </head>
+<body BGCOLOR="BLACK" TEXT="WHITE">
+
+
+<h1> Hello! In last paragraph. I tell you about me but in this I tell you about what i want to me so let's get Start</h1>
+
+
+
+
+<p> My Name is Bhawjot. I want join 'Cyber Security' for Ethical hacking  So for Ethical hacking we want learn some coding and one proper language. My favroite language is </p>
+<p>Java script and Python. I like this langauge because it is very easy and simple and these language are also help in hacking. And in hacking there are so many filds but </p>
+<p>my favroite field are Pentration testing, Sql injection, DOB, Man-in-middle attack, Bug bounty, Network security or hacking, i also have intrest in outdoor and indoor  </p> 
+<p>like ludo,Snake and ladder,Cricket,football and I also play mobile games like Minecraft, Clash of clans etc  And I also do some plans of upcoming years when i done all this </p>
+<p>thinghs I try do OSCP and CEH courses after that i will be certified Ethical hacker and that much easy to take any job like work for army or google and much more and by </p>
+<P>Bug Bounty i also find bug in big compunies like facebook and twitter etc and i also earn money to find some bug that set </p>
+<p>I hope you know something about me </p> 
+
+
+</body>
+
